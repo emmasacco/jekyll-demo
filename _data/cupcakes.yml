@@ -1,0 +1,14 @@
+red-velvet: 
+  name: "Red Velvet"
+  icing: "Cream cheese"
+  wrapper: 
+    color: "White"
+    pattern: "Polka dots"
+chocolate:
+  name: "Chocolate Delight"
+  icing: "Chocolate"
+  wrapper:
+    color: "Blue"
+    pattern: "Balloons"
+    
+  
